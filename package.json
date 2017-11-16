@@ -1,5 +1,5 @@
 {
-  "name": "qb_logger",
+  "name": "qb-logger",
   "version": "0.0.1",
   "description": "a front end logger tool",
   "main": "./dist/logger.js",
