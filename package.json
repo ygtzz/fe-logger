@@ -1,6 +1,6 @@
 {
   "name": "qb-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a front end logger tool",
   "main": "./dist/logger.js",
   "scripts": {
@@ -13,14 +13,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ygtzz/qb_logger.git"
+    "url": "git+https://github.com/ygtzz/qb-logger.git"
   },
   "author": "ygtzz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ygtzz/qb_logger/issues"
+    "url": "https://github.com/ygtzz/qb-logger/issues"
   },
-  "homepage": "https://github.com/ygtzz/qb_logger#readme",
+  "homepage": "https://github.com/ygtzz/qb-logger#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "6.x",
