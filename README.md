@@ -1,3 +1,3 @@
-# qb-logger
+# fe-logger
 
 a front end logger tool
